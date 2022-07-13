@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Header from "./Components/Header";
 import MainContainer from "./Components/MainContainer";
-
+//whadup
 function App() {
   const [has_game_started, setStarted] = React.useState(false);
   const [is_recording, setIsRecording] = React.useState(false);
